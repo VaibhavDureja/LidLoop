@@ -1,0 +1,4 @@
+.DS_Store
+LidLoop.app/
+.lidloop-build.*/
+*.dSYM/
